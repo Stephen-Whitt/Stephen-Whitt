@@ -1,4 +1,4 @@
-# 👋 Hi, I’m @Stephen-Whitt !
+# 👋 Hi, I’m Stpehen Whittenberger !
 
 ---
 
