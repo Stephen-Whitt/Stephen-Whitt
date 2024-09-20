@@ -1,5 +1,5 @@
 # 👋 Hi, I’m Stpehen Whittenberger !
-[View my current location](https://www.youtube.com/watch?v=dQw4w9WgXcQ&ab_channel=RickAstley){: .btn}
+
 ---
 
 - Recent Roane State Community College graduate with an A.A.S. in Computer Information Technology: Cyber Defense.
@@ -10,3 +10,5 @@
 ---
 
 #### Here I will post personal projects that interest me and perhaps you ... so feel free to explore !
+
+[View my current location](https://www.youtube.com/watch?v=dQw4w9WgXcQ&ab_channel=RickAstley)
