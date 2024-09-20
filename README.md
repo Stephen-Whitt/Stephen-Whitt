@@ -11,4 +11,4 @@
 
 #### Here I will post personal projects that interest me and perhaps you ... so feel free to explore !
 
-[View my current location](https://www.youtube.com/watch?v=dQw4w9WgXcQ&ab_channel=RickAstley)
+[View my current location](https://cl.gy/KHQQn)
